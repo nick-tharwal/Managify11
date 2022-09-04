@@ -41,5 +41,5 @@ Education
 * Adding multi-language support and a secure admin panel to eliminate any hassle.
 
 
-# <img src="https://media0.giphy.com/media/MLyUJaZN3zlNWtSwDt/giphy.gif" width="53"/> CHECK OUT MANAGIFY 🦅 - https://OURWEBSITELINK.COM
+# <img src="https://media0.giphy.com/media/MLyUJaZN3zlNWtSwDt/giphy.gif" width="53"/> CHECK OUT MANAGIFY 🦅 - https://noWEBSITELINK.COM
 
