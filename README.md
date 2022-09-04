@@ -1,7 +1,7 @@
 ![Star ](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Always%20Useful&style=style=flat&color=BC4E99)
 
 
-![black-blue-gradient-linear-1920x1080-c2-000000-00ced1-a-105-f-14](https://github.com/nick-tharwal/Managify11/blob/main/20220904_093833_0000.png)
+<img src="https://github.com/nick-tharwal/Managify11/blob/main/20220904_093833_0000.png" align="center" height="200" width="200">
 
 # <img src="https://github.com/nick-tharwal/Managify11/blob/main/20220904_093833_0000.png" width="60"/> Managify
 Managify is a platform to manage your notes , assignments , pdfs , attendences and also reminds you of your all of deadlines. It happens through a Whatsapp Bot.
