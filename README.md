@@ -25,8 +25,13 @@ Education
 
 # <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/gear_2699-fe0f.png" width="43"/> TOOLS USED -
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+  <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://replit.com/public/icons/apple-icon-180.png" alt="html5" width="40" height="40"/> </a>
+  
 
-*
+   
+
+*<a href="https://wix.com/velo" target="_blank" rel="noreferrer"> Velo by Wix </a>
+*<a href="https://developers.facebook.com/docs/whatsapp/cloud-api" target="_blank" rel="noreferrer"> Whatsapp Cloud API </a>
   
 # <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/exploding-head_1f92f.png" width="43"/> CHALLANGES WE RAN INTO -
 *
